@@ -1,0 +1,13 @@
+Algoritmo para Compartir Información Confiable en Internet
+
+1. Rastrear el origen.
+
+2. Evaluar la autoridad del emisor.
+
+3. Contrastar los datos.
+
+4. Verificar la fecha y el contexto.
+
+5. Detectar el sesgo y el sensacionalismo.
+
+6. Difundir de forma responsable.
