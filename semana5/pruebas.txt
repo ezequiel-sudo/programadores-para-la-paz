@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador:
+
+1. http://localhost:3000
+   Al acceder a esta URL, el navegador muestra el texto "Servidor activo". Esto confirma que la ruta raíz del servidor está respondiendo correctamente a las peticiones GET básicas.
+
+2. http://localhost:3000/saludo
+   Al ingresar a esta dirección, se visualiza el texto "Hola comunidad". Es una ruta estática secundaria que sirve para entregar un mensaje fijo predeterminado.
+
+3. http://localhost:3000/mensaje/juan
+   Al cargar esta URL, el navegador despliega el texto "Hola juan". El servidor toma dinámicamente la palabra "juan" desde la URL (usando req.params.nombre) y la concatena en la respuesta, permitiendo personalizar el saludo para cualquier nombre que se escriba ahí.
