@@ -1,0 +1,6 @@
+Las plataformas tecnológicas comunitarias suelen ser el canal principal de comunicación, organización y resguardo de datos sensibles de colectivos y ciudadanos. 
+Si un servidor se cae de forma constante o carece de medidas básicas de seguridad, se rompe el acceso a herramientas esenciales y se vulnera la privacidad de los usuarios,
+lo que destruye directamente la confianza en el ecosistema digital. La estabilidad garantiza que la información esté disponible siempre que un miembro de la comunidad la 
+necesite, especialmente en situaciones críticas o de toma de decisiones. Por otro lado, la seguridad previene hackeos, filtraciones o alteraciones maliciosas de los 
+datos que podrían poner en riesgo a personas vulnerables. Mantener un servidor robusto, monitoreado mediante logs y protegido adecuadamente no es solo un requerimiento 
+técnico, sino un compromiso ético de cuidado y respeto hacia el tejido social que confía en la plataforma para su desarrollo y participación activa.

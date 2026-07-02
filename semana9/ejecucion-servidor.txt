@@ -1,0 +1,10 @@
+Al ejecutar el comando "node server.js", el entorno de Node.js interpreta el código, levanta la aplicación Express y asocia el proceso al puerto 3000 del computador o contenedor de Codespaces.
+
+En la terminal aparece exactamente el siguiente mensaje:
+"Servidor ejecutándose en puerto 3000"
+
+Cuando se visita la ruta "/estado" desde el navegador o una herramienta de peticiones HTTP, el servidor procesa la solicitud GET y devuelve una respuesta en formato JSON con la siguiente estructura:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
