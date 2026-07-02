@@ -1,0 +1,5 @@
+1. No exponer datos personales (encriptar o anonimizar información sensible de los ciudadanos como teléfonos o identificaciones).
+2. Proteger credenciales mediante algoritmos de hashing fuertes (nunca guardar contraseñas en texto plano en la base de datos).
+3. Usar conexiones seguras mediante protocolos HTTPS para cifrar el tráfico entre el ciudadano y el servidor Express.
+4. Registrar accesos y auditorías (guardar logs de acciones críticas para identificar intentos de hackeo o modificaciones sospechosas).
+5. Limitar acceso a información sensible aplicando el principio de menor privilegio mediante roles y autenticación estricta.

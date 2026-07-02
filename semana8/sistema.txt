@@ -1,0 +1,9 @@
+Explicación de comandos ejecutados:
+- 'uname -a': Muestra información completa sobre el sistema operativo y el núcleo (kernel) de Linux, incluyendo el nombre del host, la versión del kernel, la arquitectura del procesador (por ejemplo, x86_64 o arm) y la fecha de compilación del sistema.
+- 'whoami': Muestra el nombre exacto del usuario actual que tiene la sesión activa en la terminal y que está ejecutando los procesos.
+
+Utilidad en la administración de servidores:
+Conocer estos datos es fundamental cuando se administra un servidor web por varias razones:
+1. Compatibilidad: Permite saber qué paquetes de software o dependencias de Node.js son compatibles con la arquitectura y versión actual del sistema operativo.
+2. Seguridad: Ayuda a identificar si el kernel de Linux tiene vulnerabilidades conocidas que requieran parches o actualizaciones urgentes.
+3. Control de permisos: Con 'whoami' se verifica si se tienen privilegios de superusuario (root) para realizar instalaciones o modificaciones críticas del sistema, evitando errores que comprometan la disponibilidad de la plataforma.
