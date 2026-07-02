@@ -1,0 +1,3 @@
+Al realizar una petición GET a http://localhost:3000/reportes inmediatamente después de encender el servidor, este devuelve un array vacío []. Esto sucede porque la variable 'reportes' se inicializa sin elementos.
+
+Sin embargo, tras enviar una petición POST con los datos de un incidente (por ejemplo, el daño del alumbrado), el servidor procesa el objeto, le asigna un ID único y lo guarda en el array mediante el método .push(). Al volver a ejecutar la petición GET, el servidor ya no responde con un array vacío, sino con una lista estructurada en JSON que contiene todos los reportes acumulados. Es importante notar que, al ser un almacenamiento temporal en la memoria RAM, si el servidor se detiene o se reinicia, el array vuelve a limpiarse por completo.
