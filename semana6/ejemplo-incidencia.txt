@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se ha formado un bache profundo en el cruce peatonal de la avenida principal, lo que pone en riesgo a los vehículos y transeúntes."
+}
