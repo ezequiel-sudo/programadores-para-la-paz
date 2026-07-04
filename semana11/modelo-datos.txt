@@ -1,0 +1,23 @@
+MODELO DE DATOS: PLATAFORMA DE INICIATIVAS COMUNITARIAS
+
+Entidad: Causa
+Campos principales:
+- id (Tipo: Numérico/UUID, Clave primaria única)
+- titulo (Tipo: Texto, Nombre corto de la iniciativa)
+- descripcion (Tipo: Texto extendido, Justificación y detalles del proyecto)
+- categoria (Tipo: Texto, Ej. "Medio Ambiente", "Educación", "Infraestructura")
+- fecha_creacion (Tipo: Fecha/Timestamp, Registro de cuándo se publicó)
+- estado (Tipo: Texto, Valores: "Activa", "En Desarrollo", "Completada")
+
+Propósito:
+Almacenar de forma organizada las causas o problemáticas impulsadas por los ciudadanos para que puedan ser visualizadas, auditadas y filtradas por toda la comunidad en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Tipo: Numérico/UUID, Clave primaria única)
+- causa_id (Tipo: Numérico/UUID, Clave foránea que conecta con la entidad Causa)
+- usuario_anonimo_hash (Tipo: Texto, Identificador cifrado no sensible del votante)
+- fecha_apoyo (Tipo: Fecha/Timestamp, Registro del momento exacto del voto)
+
+Propósito:
+Registrar los apoyos digitales y votos que recibe cada causa comunitaria, permitiendo medir el respaldo colectivo y llevar la trazabilidad de la participación sin exponer la identidad real del usuario.

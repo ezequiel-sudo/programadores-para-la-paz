@@ -1,0 +1,13 @@
+DISEÑO DE INTERFAZ BÁSICA (FRONTEND)
+
+1. Vista Principal de Causas Disponibles:
+Al ingresar, la plataforma mostrará una cuadrícula o lista limpia con las causas activas. Cada causa se presentará en una tarjeta visual ("Card") que incluye su título, una categoría de color distintiva, la fecha de publicación y un extracto de su descripción para facilitar una lectura rápida y ágil.
+
+2. Formulario para Crear una Causa:
+Ubicado en una sección protegida (accesible solo tras hacer login). Contará con tres campos de texto claros: "Título de la Causa", "Categoría" (un menú desplegable) y "Descripción detallada". Incluirá un botón de acción destacado que dirá "Publicar Causa", el cual enviará los datos de forma segura al servidor.
+
+3. Botón para Apoyar una Causa:
+Cada tarjeta de causa disponible tendrá integrado un botón con el icono de un pulgar hacia arriba o un corazón, acompañado del texto "Apoyar Causa". Al hacer clic, este botón desencadenará una petición al servidor para sumar un nuevo registro en la base de datos de forma asíncrona.
+
+4. Contador de Apoyos:
+Justo al lado del botón de apoyo, se mostrará un indicador numérico en negrita (Ej. "124 apoyos"). Este contador se actualizará en tiempo real gracias a la consulta de la base de datos, permitiendo visibilizar el impacto y la urgencia comunitaria de la iniciativa sin revelar quiénes votaron.

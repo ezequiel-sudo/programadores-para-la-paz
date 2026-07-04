@@ -1,0 +1,5 @@
+El login es el mecanismo de seguridad que permite verificar de forma certera la identidad de un usuario mediante credenciales antes de otorgarle acceso a la plataforma. 
+En el desarrollo comunitario, ciertas rutas (como la creación de causas, la edición de reportes o el panel de administración) deben estar estrictamente protegidas para 
+evitar que agentes externos, atacantes o bots automatizados manipulen, saboteen o eliminen registros legítimos de la ciudadanía. Asimismo, la seguridad operativa dicta 
+que bajo ninguna circunstancia se debe exponer públicamente información confidencial como contraseñas, claves hash, tokens de sesión, direcciones físicas, números 
+telefónicos o correos electrónicos de los líderes sociales, previniendo así ataques de ingeniería social o persecuciones que vulneren el tejido comunitario.

@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana no puede depender únicamente de buenas intenciones; requiere de un respaldo de base de datos, 
+autenticación y protección de información para ser verdaderamente viable y segura. La base de datos dota al movimiento de memoria institucional y estructura, 
+transformando el descontento social disperso en datos duros, medibles y auditables para el control social frente a las instituciones. Por su parte, la autenticación de 
+usuarios actúa como un escudo democrático que garantiza que las propuestas y apoyos provengan de actores reales del proceso, evitando el fraude electrónico o la 
+manipulación de datos por parte de grupos de interés opuestos. Por último, la protección estricta de la información sensible es un deber ético ineludible en contextos 
+comunitarios. Si un sistema expone las identidades, teléfonos o ubicaciones de ciudadanos que denuncian irregularidades, pone en riesgo directo su integridad física y 
+destruye la confianza colectiva en la tecnología. Así, estos tres componentes de software no son lujos técnicos, sino las garantías democráticas necesarias para ejercer 
+el poder ciudadano de forma libre, transparente y segura.
