@@ -1,0 +1,13 @@
+HISTORIAS DE USUARIO PRIORIZADAS (BACKLOG)
+
+[Alta Prioridad - Crítica para el funcionamiento básico]
+1. Como ciudadano quiero registrar una incidencia con descripción y categoría para dejar evidencia pública del caso en la plataforma.
+
+[Alta Prioridad - Esencial para la gestión]
+2. Como coordinador de veeduría quiero consultar el listado completo de reportes ingresados para poder asignarles seguimiento y revisión.
+
+[Media Prioridad - Alerta temprana]
+3. Como miembro del equipo de control quiero recibir una alerta automática en Telegram cuando ocurra un nuevo reporte para agilizar la capacidad de respuesta.
+
+[Baja Prioridad - Cierre de ciclo]
+4. Como ciudadano afectado quiero visualizar el estado actualizado de mi reporte (en revisión, resuelto) para verificar que el proceso es transparente.

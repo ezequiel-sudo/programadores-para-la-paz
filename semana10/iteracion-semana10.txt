@@ -1,0 +1,14 @@
+TAREAS DE LA PRIMERA ITERACIÓN
+Las dos tareas que se realizarían primero son:
+1. Crear el formulario para que el ciudadano registre la incidencia.
+2. Desarrollar la vista para que el coordinador consulte los reportes.
+
+¿POR QUÉ SON LAS MÁS IMPORTANTES?
+Estas tareas constituyen el "Producto Mínimo Viable" (MVP). Sin la capacidad de capturar los datos de una incidencia y sin una interfaz para que el equipo los revise, el sistema no tiene valor operativo real. Las automatizaciones y las alertas secundarias dependen completamente de que este flujo base de datos exista y funcione primero.
+
+DEFINICIÓN DE TERMINADO (DEFINITION OF DONE - DoD)
+Para este proyecto, una tarea se considera "Terminado" cuando cumple estrictamente con los siguientes 4 criterios:
+1. Funciona: El código se ejecuta sin errores en el entorno local y cumple el objetivo de la historia de usuario.
+2. Fue probada: Se realizaron pruebas manuales completando campos con datos válidos y erróneos para asegurar la estabilidad.
+3. Quedó registrada en Git: El código fue subido al repositorio de GitHub mediante un commit claro y descriptivo.
+4. Documentada y segura: No se exponen credenciales, tokens ni variables de entorno sensibles en el código final.

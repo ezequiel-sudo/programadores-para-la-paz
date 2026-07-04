@@ -1,0 +1,8 @@
+Las metodologías ágiles, la automatización con n8n y los canales de comunicación como Telegram representan una combinación estratégica fundamental para estructurar y 
+potenciar los procesos de participación ciudadana. En primer lugar, las metodologías ágiles permiten a las organizaciones comunitarias dividir problemas sociales 
+complejos en tareas pequeñas, priorizando las necesidades urgentes mediante el backlog y entregando soluciones tecnológicas iterativas que se adaptan rápidamente a la 
+realidad del territorio. Por otro lado, la automatización con herramientas como n8n alivia la carga operativa de los coordinadores comunitarios al delegar tareas 
+repetitivas (como el envío de notificaciones de seguimiento no sensibles) a los sistemas, permitiendo que el equipo humano concentre sus esfuerzos en la toma de 
+decisiones y el diálogo social. Finalmente, integrar un canal de uso masivo como Telegram garantiza que la información importante llegue directo al territorio de forma 
+inmediata y accesible para cualquier ciudadano. Esta combinación no solo optimiza la gestión del tiempo y de los recursos técnicos, sino que formaliza la trazabilidad 
+del proceso, democratiza el acceso a la información y fortalece de manera sostenible la confianza colectiva en las plataformas democráticas locales.
