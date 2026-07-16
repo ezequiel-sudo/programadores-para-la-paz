@@ -1,0 +1,7 @@
+Durante este curso he aprendido que la tecnología aplicada con propósito social no es solo una herramienta técnica, sino un motor de empoderamiento ciudadano. 
+Integrar bases de datos, lógica de backend y automatizaciones eficientes permite descentralizar la toma de decisiones y dar voz a comunidades que tradicionalmente 
+enfrentan barreras burocráticas. Lo más valioso de este proceso ha sido entender que el diseño ágil y seguro de un sistema no está reñido con la privacidad de las 
+personas; al contrario, la minimización de datos fomenta una participación mucho más libre, confiable y segura. Herramientas sencillas de automatización como n8n y 
+Telegram demuestran que es posible conectar el activismo comunitario con respuestas institucionales ágiles en tiempo récord. En conclusión, la tecnología bien orientada 
+y ética reduce la brecha de comunicación entre el ciudadano y la gestión pública, entregando herramientas reales para proponer soluciones, vigilar el cumplimiento de 
+promesas y consolidar el cambio social desde la base del territorio.

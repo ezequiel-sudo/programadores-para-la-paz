@@ -1,0 +1,5 @@
+1. Creación de la Causa: Un ciudadano o líder comunitario ingresa a la plataforma y crea una causa completando un formulario sencillo (título, descripción y meta de apoyos).
+2. Almacenamiento en Base de Datos: La plataforma registra la nueva causa en la base de datos y genera una URL o enlace público único para compartir.
+3. Registro de Apoyo: Otros ciudadanos acceden al enlace de la causa, leen la descripción y registran su apoyo de manera rápida con un solo clic (aportando datos mínimos para validar la firma).
+4. Actualización del Contador: El backend recibe la solicitud de apoyo, actualiza el contador de firmas asociadas a esa causa en tiempo real y verifica si se alcanzó la meta establecida.
+5. Generación del Documento Formal: Una vez finalizado el plazo o completados los apoyos, el sistema compila la información de la causa junto con la lista de firmantes y genera automáticamente un documento formal en formato PDF.

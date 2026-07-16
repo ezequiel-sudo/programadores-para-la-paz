@@ -1,0 +1,15 @@
+[Entidad: Causa]
+* id (Clave Primaria, Entero / UUID): Identificador único de la causa.
+* titulo (Texto, Corto): Nombre de la iniciativa o petición ciudadana.
+* descripcion (Texto, Largo): Explicación detallada del problema y la solicitud de cambio.
+* fecha_creacion (Fecha/Hora): Momento exacto en que se registró la causa.
+
+-> Propósito de la Entidad: Almacena la información principal de las iniciativas propuestas por la comunidad que requieren recolección de firmas o apoyos digitales.
+
+[Entidad: Apoyo]
+* id (Clave Primaria, Entero / UUID): Identificador único de este registro de apoyo.
+* causa_id (Clave Foránea): Enlace relacional directo con el 'id' de la Causa apoyada.
+* nombre (Texto, Corto): Nombre (o iniciales/pseudónimo si se prioriza la privacidad) del firmante.
+* fecha (Fecha/Hora): Momento exacto en que la persona registró su apoyo.
+
+-> Propósito de la Entidad: Registra de manera individual cada muestra de respaldo que recibe una causa. Permite asociar múltiples apoyos a una sola iniciativa y contar de forma precisa el impacto colectivo.

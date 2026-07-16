@@ -1,0 +1,14 @@
+1. Evento Disparador (Trigger): 
+Un usuario registra exitosamente una nueva causa en la base de datos del sistema.
+
+2. Acción de Automatización:
+La plataforma envía un Webhook a n8n. Esta herramienta procesa la información y utiliza el nodo de Telegram para enviar un mensaje automático a un canal comunitario público o grupo de difusión local.
+
+3. Mensaje a Enviar:
+"📢 ¡Atención Comunidad! Se ha registrado una nueva causa en la plataforma. 🎯 Título: [Título de la Causa] 📝 Breve descripción: [Descripción de la Causa] ¡Suma tu voz y firma ingresando aquí! ✊"
+
+4. Información que NO debe enviarse por seguridad (Minimización de Datos):
+- Cédulas de identidad, números de documento personal o DNI.
+- Correos electrónicos privados de los creadores o de los firmantes.
+- Números de teléfono móvil, direcciones residenciales o geolocalización sensible.
+- Comentarios privados o notas de moderación interna del sistema.
